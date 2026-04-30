@@ -1,0 +1,35 @@
+# Icarus Verilog compiled output
+*.vvp
+*.vcd
+alu_sim
+a.out
+
+# Waveform files
+*.lxt
+*.lxt2
+*.vzt
+*.fst
+*.ghw
+
+# GTKWave config
+*.gtkw
+*.sav
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Logs
+*.log
