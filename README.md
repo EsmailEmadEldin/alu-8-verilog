@@ -125,13 +125,6 @@ A NAND B = 11111010, Zero=0, Neg=1, Overflow=0
 
 ---
 
-## 👤 Author
-
-**Esmail Emad El-Din Mohamed**
-Cairo University — Computer Science & Artificial Intelligence
-
----
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
